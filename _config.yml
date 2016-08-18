@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Research Design"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Seth Spielman"
+description              : "GEOG 4173"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -37,7 +37,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "seth_sp"
 facebook:
   username               :
   app_id                 :
@@ -63,19 +63,19 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Seth Spielman"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  bio              : "Associate Professor"
+  location         : "Boulder, CO"
+  email            : "seth.spielman@colorado.edu"
+  uri              : "sethspielman.org"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "geoss"
   google_plus      :
   keybase          :
   instagram        :
@@ -86,7 +86,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "seth_sp"
   vine             :
   weibo            :
   xing             :
